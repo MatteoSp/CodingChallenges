@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "Quiz1": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    },
+    "Quiz2": {
+      "commandName": "Project",
+      "commandLineArgs": "2"
+    },
+    "Quiz3": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    }
+  }
+}

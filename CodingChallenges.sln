@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingChallenges.Quizes", "CodingChallenges.Quizes\CodingChallenges.Quizes.csproj", "{4279A7CA-9BFA-4AB0-B629-2AF6C367DDCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingChallenges.TennisMatch", "CodingChallenges.TennisMatch\CodingChallenges.TennisMatch.csproj", "{A907AE63-0C83-4E35-AF18-E84E2D52C3D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4279A7CA-9BFA-4AB0-B629-2AF6C367DDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4279A7CA-9BFA-4AB0-B629-2AF6C367DDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4279A7CA-9BFA-4AB0-B629-2AF6C367DDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4279A7CA-9BFA-4AB0-B629-2AF6C367DDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A907AE63-0C83-4E35-AF18-E84E2D52C3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A907AE63-0C83-4E35-AF18-E84E2D52C3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A907AE63-0C83-4E35-AF18-E84E2D52C3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A907AE63-0C83-4E35-AF18-E84E2D52C3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7CA26D3-8FCA-49B1-9BC1-ABA71DCA2396}
+	EndGlobalSection
+EndGlobal

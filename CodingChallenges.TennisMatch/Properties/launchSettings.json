@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "GameV1": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    },
+    "GameV2": {
+      "commandName": "Project",
+      "commandLineArgs": "2"
+    }
+  }
+}
